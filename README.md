@@ -5,10 +5,10 @@ stats.js
 
 This class provides a simple info box that will help you monitor your code performance.
 
-* **FPS** Frames rendered in the last second. The higher the number the better.
-* **MS** Milliseconds needed to render a frame. The lower the number the better.
-* **MB** MBytes of allocated memory. (Run Chrome with `--enable-precise-memory-info`)
-* **CUSTOM** User-defined panel support.
+* **FPS** 在最后一秒渲染的帧。数字越大越好。
+* **MS** 渲染帧所需的毫秒数。数字越小越好。
+* **MB** MBytes 已分配内存。(使用"--enable-precise-memory-info "运行 Chrome 浏览器）
+* **CUSTOM** 支持用户自定义面板。
 
 
 ### Screenshots ###
